@@ -24,11 +24,11 @@ error:
 
 #mongodb
 spring:
-	data:
-		mongodb:
-			host : localhost
-	                port : 27017
-			database : RegionDB
+ data:
+  mongodb:
+   host : localhost
+   port : 27017
+   database : RegionDB
 
 #logging
 logging.level.org.springframework.data : debug
