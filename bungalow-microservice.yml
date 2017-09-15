@@ -34,5 +34,3 @@ spring:
 logging.level.org.springframework.data : debug
 logging.level. : info
 
-
-message : Hello world
