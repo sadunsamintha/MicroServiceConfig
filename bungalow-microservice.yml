@@ -29,7 +29,7 @@ spring:
    host : localhost
    port : 27017
    database : RegionDB
-message : Hello World
+message : Hello Sadun
 
 #logging
 logging.level.org.springframework.data : debug
